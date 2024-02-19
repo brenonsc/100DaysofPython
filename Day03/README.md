@@ -2,7 +2,7 @@
 
 Bem-vindo à Ilha do Tesouro! Sua missão é encontrar o tesouro escondido. Prepare-se para uma aventura cheia de escolhas emocionantes e desafios!
 
-![Ilha do Tesouro](https://emojicombos.com/emoji/img/apple-b/1f3dd-ufe0f.png)
+![Ilha do Tesouro](https://mais.opovo.com.br/_midias/gif/2023/08/16/ninjala_ninjala_season6trailer-23036129.gif)
 
 <br>
 
