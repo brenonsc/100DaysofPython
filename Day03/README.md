@@ -2,7 +2,7 @@
 
 Bem-vindo à Ilha do Tesouro! Sua missão é encontrar o tesouro escondido. Prepare-se para uma aventura cheia de escolhas emocionantes e desafios!
 
-![Ilha do Tesouro](https://mais.opovo.com.br/_midias/gif/2023/08/16/ninjala_ninjala_season6trailer-23036129.gif)
+<div align="center">   <img src="https://mais.opovo.com.br/_midias/gif/2023/08/16/ninjala_ninjala_season6trailer-23036129.gif" alt="Ilha do Tesouro"> </div>
 
 <br>
 
@@ -36,13 +36,13 @@ Você chegou a um lago. Há uma ilha no meio do lago. Digite "esperar" para espe
 Usuário: *esperar*
 
 ```
-Você chega à ilha ileso. Há uma casa com 3 portas. Uma vermelha, uma amarela e uma azul. Qual cor você escolhe?
+Você chegou à ilha ileso. Há uma casa com 3 portas. Uma vermelha, uma amarela e uma azul. Qual cor você escolhe?
 ```
 
 Usuário: *amarela*
 
 ```
-Você encontrou o tesouro! Você vence!
+Você encontrou o tesouro! Você venceu!
 ```
 
 <br>
