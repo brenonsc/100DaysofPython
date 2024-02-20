@@ -2,6 +2,8 @@
 
 Este é um simples programa em Python que calcula a divisão da conta com gorjeta inclusa, considerando o valor total da conta, o número de pessoas que vão dividir a conta e a porcentagem de gorjeta desejada.
 
+<div align="center">   <img src="https://media1.tenor.com/m/D8zWQW3ZduwAAAAd/math-calculator.gif" alt="Calculando"> </div>
+
 <br>
 
 ## Como usar
