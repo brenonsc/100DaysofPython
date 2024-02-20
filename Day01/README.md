@@ -2,7 +2,7 @@
 
 Este é um simples programa em Python que gera nomes de bandas a partir de informações fornecidas pelo usuário, como a cidade em que cresceu e o nome do seu animal de estimação.
 
-<div align="center">   <img src="https://i.pinimg.com/originals/c3/d7/59/c3d759f66c604c6729aaa3e4eb87b69b.gif" alt="Banda de Rock"> </div>
+<div align="center">   <img src="https://i.pinimg.com/originals/50/7e/ac/507eac1b05fc912d7d991dece66417c5.gif" alt="Banda de Rock"> </div>
 
 <br>
 
