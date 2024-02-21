@@ -1,6 +1,8 @@
 # Gerador de Senhas PyPassword
 
-<div align="center">   <img src="https://media.baamboozle.com/uploads/images/88460/1619583378_1462979_gif-url.gif" alt="Segurança"> </div>
+<div align="center">   <img src="https://www.itsasap.com/hs-fs/hubfs/cybersecurity%20framework.gif?width=778&name=cybersecurity%20framework.gif" alt="Segurança"> </div>
+
+<br>
 
 Este é um simples gerador de senhas em Python que cria senhas aleatórias com letras, números e símbolos.
 
