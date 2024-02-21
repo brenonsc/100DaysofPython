@@ -1,6 +1,6 @@
 # Gerador de Senhas PyPassword
 
-<div align="center">   <img src="https://www.itsasap.com/hs-fs/hubfs/cybersecurity%20framework.gif?width=778&name=cybersecurity%20framework.gif" alt="Segurança"> </div>
+<div align="center">   <img src="https://i.pinimg.com/originals/b4/e3/71/b4e371619042d1e80918d09904e90f7d.gif" alt="Matrix"> </div>
 
 <br>
 
