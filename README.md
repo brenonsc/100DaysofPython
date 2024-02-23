@@ -13,3 +13,5 @@
 - [Day 3:](https://github.com/brenonsc/100DaysofPython/tree/main/Day03) Control Flow and Logical Operators
 - [Day 4:](https://github.com/brenonsc/100DaysofPython/tree/main/Day04) Randomisation and Python Lists
 - [Day 5:](https://github.com/brenonsc/100DaysofPython/tree/main/Day05) Python Loops
+- [Day 6:](https://github.com/brenonsc/100DaysofPython/tree/main/Day06) Python Functions & Karel
+- [Day 7:](https://github.com/brenonsc/100DaysofPython/tree/main/Day07) Hangman
