@@ -15,3 +15,5 @@
 - [Day 5:](https://github.com/brenonsc/100DaysofPython/tree/main/Day05) Python Loops
 - [Day 6:](https://github.com/brenonsc/100DaysofPython/tree/main/Day06) Python Functions & Karel
 - [Day 7:](https://github.com/brenonsc/100DaysofPython/tree/main/Day07) Hangman
+- [Day 8:](https://github.com/brenonsc/100DaysofPython/tree/main/Day08) Function Parameters & Caesar Cipher
+- [Day 9:](https://github.com/brenonsc/100DaysofPython/tree/main/Day09) Dictionaries, Nesting and the Secret Auction
