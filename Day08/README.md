@@ -2,7 +2,7 @@
 
 Aqui estão algumas funções de saudação que você pode usar para cumprimentar pessoas de diferentes maneiras:
 
-<div align="center">   <img src="https://i.gifer.com/Buo.gif" alt="Goofy greeting"> </div>
+<div align="center">   <img src="https://media1.tenor.com/m/Bwyqs5TAm3sAAAAC/greetings.gif" alt="Goofy greeting"> </div>
 
 <br>
 
